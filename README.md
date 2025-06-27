@@ -1,6 +1,10 @@
-# about-me
-# 💫 About Me:
- I am sairam ,am perusing my degree in AI/ML.<br>love to do interesting things.<br>if you want a collab contact mail me :sairam.1242006@gmail.com
+## 💫 About Me
+Hi, I'm **Sairam** 👋 — a passionate AI/ML enthusiast currently pursuing my degree in Artificial Intelligence & Machine Learning.
+
+- 🔍 I love exploring computer vision, machine learning, and real-world automation.
+- 🤝 Open to collaborating on interesting projects — reach out via email!
+- 📧 sairam.1242006@gmail.com
+
 
 
 ## 🌐 Socials:
