@@ -84,5 +84,22 @@ I’m a passionate AI/ML enthusiast currently pursuing my degree in Artificial I
 More badges on [my Credly profile](https://www.credly.com/users/sairam-s.ef012473)
 
 ---
+---
+
+## 🚀 Projects
+
+Here are some of the projects I’ve built or contributed to:
+
+- 🎯 [Helmet Detection using YOLOv8 + OpenCV](https://github.com/sairam-s0/helmetdection-using-yolo8m-opencv)  
+  Real-time helmet violation detection system using YOLOv8 and OpenCV.
+
+- 💸 [Billing System (Python + GUI)](https://github.com/sairam-s0/billing-system)  
+  Inventory and billing application built with Python for shop owners.
+
+- 🕵️‍♂️ [Ponzi Scheme Detection (ML + NLP)](https://github.com/Vijay-31-08-2005/ponzi-scheme-detection)  
+  Machine learning model that detects financial fraud and scams using text analysis.
+
+---
+
 
 [![](https://visitcount.itsvg.in/api?id=sairam-s0&icon=0&color=0)](https://visitcount.itsvg.in)
